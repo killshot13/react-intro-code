@@ -1,6 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import React from 'react';  // similar to using <script>
+import ReactDOM from 'react-dom'; // similar to using <script>
+import './index.css'; // similar to using <link>
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
