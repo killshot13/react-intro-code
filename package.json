@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "andrew": "ls"
+    "pushScript": "git add . && git commit -m 'generic message' && git push"
   },
   "eslintConfig": {
     "extends": "react-app"
