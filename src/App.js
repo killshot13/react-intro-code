@@ -41,6 +41,7 @@ class App extends Component {
     // this.state.name = "Juan" DO NOT DO THIS
     this.setState({
       name: "Juan"
+      name: "Michael"
     })
   }
 
